@@ -1,12 +1,9 @@
 ## Oii! Eu sou o Fernando Manuel 👋
-⚡ Atuo como Eletrotécnico.
 
-📚 Estudante de Automação Industrial e me arriscando no mundo Dev.
+⚡ Atuo como Eletrotécnico.<br>
+📚 Estudante de Automação Industrial e me arriscando no mundo Dev.<br>
+🧰 Projetando com: Codesys, CADe Simu, FST-Ladder. <br><br>
 
-🧰 Projetando com: Codesys, CADe Simu, FST-Ladder.
- 
- <br>
- 
-📩 Email para contato: fernandomrs.tec@gmail.com
-  
+📡Contato em: <br>
+📩 Email: fernandomrs.tec@gmail.com <br>
 📭 Linkedin: https://www.linkedin.com/in/fernandomanuelrsousa/
