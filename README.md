@@ -5,7 +5,5 @@
 🧰 Projetando com: Codesys, CADe Simu, FST-Ladder.
 <hr/>
 📡Contato em: <br/>
-<a href"mailto:fernandomrs.tec@gmail.com">
-📩 fernandomrs.tec@gmail.com <br>
-</a>
+📩 Email: fernandomrs.tec@gmail.com <br>
 📭 Linkedin: https://www.linkedin.com/in/fernandomanuelrsousa/
