@@ -1,8 +1,12 @@
-## Oii! Eu sou o Fernando Manuel 👋
+<p> 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=add8e6&center=true&vCenter=true&lines=Olá+,+me+chamo+Fernando+&#128075;;Seja+bem+-+vindo+ao+meu+perfil!"(https://git.io/typing-svg>
+ </p>
 
-⚡ Atuo como Eletrotécnico.<br>
-📚 Estudante de Automação Industrial e me arriscando no mundo Dev.<br>
-🧰 Projetando com: Codesys, CADe Simu, FST-Ladder.
+⚡ Eletrotécnico me aventurando no mundo dev.<br>
+📚 Estudante de Análise e Desenvolvimento de Sistemas.<br>
+👨‍💻 Desenvolvedor de software em formação com foco em Back-End.<br>
+💻 Estudando as tecnologias: HTML5, CSS3, JAVA e SQL.
+
 <hr/>
 📡Contato em: <br/>
 📩 Email: fernandomrs.tec@gmail.com <br>
