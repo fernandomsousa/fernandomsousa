@@ -4,7 +4,7 @@
 ⚡ Eletrotécnico me aventurando no mundo dev.<br>
 📚 Estudante de Análise e Desenvolvimento de Sistemas.<br>
 👨‍💻 Desenvolvedor de software em formação com foco em Back-End.<br>
-💻 Estudando as tecnologias: Python, BigData.
+💻 Estudando as tecnologias: Python, BigData, Node-RED.
 
 <hr/>
 📡Contato em: <br/>
