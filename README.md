@@ -3,7 +3,7 @@
  </p>
 📊 Analista de Dados em formação - SoulCode.<br>
 📚 Estudante de Análise e Desenvolvimento de Sistemas - Impacta.<br>
-💻 Estudando as tecnologias: Python, MySQL, Postgree, BI, Tableau e Google Cloud.
+💻 Estudando as tecnologias: Python, Pandas, MySQL, Postgree, BI, ETL, Tableau e Google Cloud.
 <hr/>
 📡Contato em: <br/>
 📩 Email: fernandomrs.tec@gmail.com <br>
